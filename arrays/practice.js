@@ -137,7 +137,7 @@ function divider(numbersArray){
       }
     }
     return [evens, odds]
-  }
+}
 
 
 
