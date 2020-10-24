@@ -29,7 +29,7 @@
 
 function first(array, cb){
   return cb(array[0])
-}
+} /// worked!
 
 // Do not edit the code below.
 var names = ['Tyler', 'Cahlan', 'Ryan', 'Colt', 'Tyler', 'Blaine', 'Cahlan'];
